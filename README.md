@@ -1,4 +1,5 @@
-Power BI Project: Unlocking Insights from E-commerce Data 📊
+Unlocking Insights from E-commerce Data 📊 
+
 As a business analyst, I'm thrilled to share my latest Power BI project, where I dove deep into e-commerce website logs to extract valuable insights into online consumer behavior. Here's a glimpse into my analytical journey:
 
 ![Viz](https://github.com/user-attachments/assets/b635a1fc-a7fc-4ce9-8aa3-7f4cd953152d)
